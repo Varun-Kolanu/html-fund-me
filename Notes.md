@@ -1,0 +1,4 @@
+- The extensions get injected into your browser's window object.
+- window.ethereum or window.solana is accessible only when Metamask or Phantom wallets
+- In backend, you use alchemy as the node
+- In frontend, you use user's wallet as the node
